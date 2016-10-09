@@ -6,3 +6,7 @@ The distributed operation layer (DOL) is a software development framework to pro
 * DOL安装笔记：  
 TA给的配置好的Ubuntu虚拟机是64位的，但是之前装的VMware是32位的，无法打开；
 按提示进BIOS开把CPU的VT-x打开就好了；
+
+# Experimental experience
+* 实验感想： 
+···
