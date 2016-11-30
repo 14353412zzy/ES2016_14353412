@@ -76,6 +76,6 @@ $$
      0 & 0 & 1 & 0 & 0 & -77
   \end{matrix}
   \right] 
-$$
+$$ 
 Therefore it is consistent. 
 Fire number: Quelle:77; DCT:77; Q:77; RLC:77; C:1; R:1
